@@ -3,3 +3,6 @@ ravioles
 fideos
 milanesas
 arroz
+pure
+gelatina
+zapallitos
